@@ -1,0 +1,4 @@
+FILE: log
+LEVEL: DEBUG
+MAX-SIZE: 1000
+FORMAT: ТУТ_ФОРМАТ
